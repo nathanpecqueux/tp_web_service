@@ -1,0 +1,14 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "idBook": 2,
+      "name": "Nathan"
+    },
+    {
+      "id": 2,
+      "idBook": 1,
+      "name": "Francois"
+    }
+  ]
+}

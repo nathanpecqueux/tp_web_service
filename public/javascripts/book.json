@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Martine à la plage",
+      "category": "Enfant"
+    },
+    {
+      "id": 2,
+      "name": "Martine en voyage",
+      "category": "Enfant"
+    },
+    {
+      "id": 3,
+      "name": "Martine à la ferme",
+      "category": "Enfant"
+    }
+  ]
+}
